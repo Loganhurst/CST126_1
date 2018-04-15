@@ -1,10 +1,10 @@
 # CST126_01 - Plastic spoons and strings
 
-**Class ID:** Aunt Beast
+Class ID: Scotched
 
-**Assignement ID:** CST126_01
+Assignement ID: CST126_01
 
-**Unresolved Issues:**
+Unresolved Issues: Heap corruption after deleting ltr on line 49, even though the function is not beign written to.
 
 **Notes:**
 
