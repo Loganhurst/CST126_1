@@ -4,7 +4,7 @@ Class ID: Scotched
 
 Assignement ID: CST126_01
 
-Unresolved Issues: Heap corruption after deleting ltr on line 49, even though the function is not beign written to.
+Unresolved Issues: Heap corruption after deleting ltr on line 49, even though the function is not beign written to. This is due to the string being moved by one on line 17.
 
 **Notes:**
 
